@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="14">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"显示的钱数"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>cstrike.exe+61B9FC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>9</ID>
+      <Description>"实际储存的钱数"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>cstrike.exe+11069BC</Address>
+      <Offsets>
+        <Offset>1CC</Offset>
+        <Offset>7C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>79</ID>
+      <Description>"副武器弹药数"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>25069bc</Address>
+      <Offsets>
+        <Offset>CC</Offset>
+        <Offset>5DC</Offset>
+        <Offset>7C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>82</ID>
+      <Description>"主武器弹药数"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>25069bc</Address>
+      <Offsets>
+        <Offset>CC</Offset>
+        <Offset>5D8</Offset>
+        <Offset>7C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>12</ID>
+      <Description>"血量显示值"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>cstrike.exe+617C78</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>84</ID>
+      <Description>"生命"</Description>
+      <Color>80000008</Color>
+      <VariableType>Float</VariableType>
+      <Address>25069bc</Address>
+      <Offsets>
+        <Offset>1E0</Offset>
+        <Offset>288</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>83</ID>
+      <Description>"血量"</Description>
+      <Color>80000008</Color>
+      <VariableType>Float</VariableType>
+      <Address>cstrike.exe+11069BC</Address>
+      <Offsets>
+        <Offset>160</Offset>
+        <Offset>4</Offset>
+        <Offset>7C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>85</ID>
+      <Description>"防弹衣"</Description>
+      <Color>80000008</Color>
+      <VariableType>Float</VariableType>
+      <Address>25069bc</Address>
+      <Offsets>
+        <Offset>23C</Offset>
+        <Offset>288</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>86</ID>
+      <Description>"基地址"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>cstrike.exe</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
